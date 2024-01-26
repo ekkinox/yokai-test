@@ -1,4 +1,4 @@
-module github.com/ankorstore/yokai-http-template
+module github.com/ekkinox/yokai-test
 
 go 1.20
 
